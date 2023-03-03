@@ -1,9 +1,8 @@
-#Paywall
+#Folha
 0.0.0.0 paywall.folha.uol.com.br
-
-# Stats
 #0.0.0.0 static.folha.uol.com.br
 #0.0.0.0 stats1.folha.uol.com.br
-
-#Social
 0.0.0.0 social.folha.com.br
+
+#UOL
+0.0.0.0 logger.uol.com.br
