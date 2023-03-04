@@ -6,3 +6,11 @@
 
 #UOL
 0.0.0.0 logger.uol.com.br
+
+#Washington Post
+0.0.0.0 recommendation-newsletter.wpdigital.net
+0.0.0.0 metrics.zeustechnology.com
+0.0.0.0 audience.zeustechnology.com
+0.0.0.0 insights-v2.zeustechnology.com
+0.0.0.0 unpkg.com
+0.0.0.0 scripts.webcontentassessor.com
