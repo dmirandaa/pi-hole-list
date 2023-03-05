@@ -14,3 +14,31 @@
 0.0.0.0 insights-v2.zeustechnology.com
 0.0.0.0 unpkg.com
 0.0.0.0 scripts.webcontentassessor.com
+
+#Added on 5/mar/2023 (from burlesco.co)
+
+#Correio 24horas
+0.0.0.0 correio-static.cworks.cloud
+
+#Correio Popular
+0.0.0.0 correio.rac.com.br
+
+#Diario de Canoas
+0.0.0.0 fivewall.com.br
+
+#El Pais
+0.0.0.0 prisa-el-pais-brasil-prod.cdn.arcpublishing.com
+0.0.0.0 prisa-el-pais-prod.cdn.arcpublishing.com
+
+#Gazeta do Povo
+0.0.0.0 netdeal.com.br
+
+#Nexo
+0.0.0.0 acesso.nexojornal.com.br
+
+#NSC Total
+0.0.0.0 paywall.nsctotal.com.br
+0.0.0.0 tinypass.com
+
+#O Globo
+0.0.0.0 static.infoglobo.com.br
